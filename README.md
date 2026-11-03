@@ -6,10 +6,11 @@
 
 ## 最新文章
 
+- 2026-11-03 · [宏观 PM 被冷落的时候，为什么 delta-one 交易员还在被抢？](articles/2026-11-03-max-witcher-balyasny-millennium.md)
 - 2026-10-30 · [监管越严越加码：Citadel Securities 在印度扩办公室，透露了什么信号](articles/2026-10-30-citadel-securities-india-expansion.md)
 - 2026-10-27 · [四年四家：银行短端利率人才，正在被对冲基金掏空](articles/2026-10-27-ravi-vinda-talent-flow.md)
 
-完整索引见 [articles/](articles/)。
+完整索引见[articles/](articles/)。
 
 ## 主题
 
@@ -19,7 +20,7 @@
 
 ## 指南
 
-常青内容见 [guides/](guides/)：求职准备、岗位解析与行业入门。
+常青内容见[guides/](guides/)：求职准备、岗位解析与行业入门。
 
 ## 交流
 
