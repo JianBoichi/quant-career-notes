@@ -6,10 +6,11 @@
 
 ## 最新文章
 
-- 2026-11-06 · [90 亿美元，一个量化团队单飞：Xantium 计划分拆 Tudor](articles/2026-11-06-xantium-tudor-spinout.md)
-- 2026-11-03 · [宏观 PM 被冷落的时候，为什么 delta-one 交易员还在被抢？](articles/2026-11-03-max-witcher-balyasny-millennium.md)
-- 2026-10-30 · [监管越严越加码：Citadel Securities 在印度扩办公室，透露了什么信号](articles/2026-10-30-citadel-securities-india-expansion.md)
-- 2026-10-27 · [四年四家：银行短端利率人才，正在被对冲基金掏空](articles/2026-10-27-ravi-vinda-talent-flow.md)
+- 2026-11-10 - [亚太成了第二增长极：Citadel Securities 一年招近 100 人，香港办公室扩租 40%](articles/2026-11-10-citadel-securities-asia-push.md)
+- 2026-11-06 - [90 亿美元，一个量化团队单飞：Xantium 计划分拆 Tudor](articles/2026-11-06-xantium-tudor-spinout.md)
+- 2026-11-03 - [宏观 PM 被冷落的时候，为什么 delta-one 交易员还在被抢？](articles/2026-11-03-max-witcher-balyasny-millennium.md)
+- 2026-10-30 - [监管越严越加码：Citadel Securities 在印度扩办公室，透露了什么信号](articles/2026-10-30-citadel-securities-india-expansion.md)
+- 2026-10-27 - [四年四家：银行短端利率人才，正在被对冲基金掏空](articles/2026-10-27-ravi-vinda-talent-flow.md)
 
 完整索引见[articles/](articles/)。
 
